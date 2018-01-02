@@ -1,0 +1,11 @@
+[1mdiff --git a/readme b/readme[m
+[1mindex 2b1ba3b..3c951f7 100644[m
+[1m--- a/readme[m
+[1m+++ b/readme[m
+[36m@@ -1 +1,3 @@[m
+[31m-关于设计模式的代码例子[m
+\ No newline at end of file[m
+[32m+[m[32m关于设计模式的代码例子[m
+[32m+[m[32mgit仓库[m
+[32m+[m[32m101100[m
+\ No newline at end of file[m
